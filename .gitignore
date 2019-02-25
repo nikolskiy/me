@@ -105,6 +105,3 @@ venv.bak/
 
 # IDE
 .idea
-
-# Ignore temp build files
-sphinx/_build

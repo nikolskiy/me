@@ -8,8 +8,8 @@ Shell tab completion:
 http://docs.pyinvoke.org/en/latest/cli.html#shell-tab-completion
 """
 from invoke import Collection
-from build import tools
+from tools import make
 
 ns = Collection(
-    tools.build, tools.clean, tools.run, tools.update, tools.html,
+    make.build, make.clean, make.run, make.update, make.html,
 )
