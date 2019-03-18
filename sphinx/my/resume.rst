@@ -41,7 +41,7 @@ Organize team work flow and provide tech solutions for VOIP application. Establi
 specification definition in form of tickets, documentation, coding best practices, test coverage using pytest,
 continuous integration builds, and automatic deployment.
 
-Speedflow Communication Ltd
+Speedflow Communications Ltd
 +++++++++++++++++++++++++++
 +-------------------------+---------+---------------+
 | **Software Developmer** | Ukraine | 04/12 – 07/13 |
