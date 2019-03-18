@@ -5,8 +5,8 @@ Welcome!
 My name is Denis. I'm a software engineer. My favorite language is Python. I've been developing software
 since 2006 and enjoy helping people who are just getting started. During my career I've worked with lots
 of other languages, frameworks, and different tech. If you want to learn more about me, feel free to checkout
-my `resume <my/resume.html>`_, `LinkedIn <http://www.linkedin.com/in/nikolskiy>`_ , or explore
-my `Github <https://github.com/nikolskiy>`_.
+my `resume <my/resume.html>`_, `LinkedIn <http://www.linkedin.com/in/nikolskiy>`_ , explore
+my `Github <https://github.com/nikolskiy>`_, or talk to my :ref:`virtual assistant <assistant>`.
 
 
 .. toctree::
@@ -22,4 +22,10 @@ my `Github <https://github.com/nikolskiy>`_.
    :caption: CV
    :hidden:
 
-   my/resume.md
+   my/resume.rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   my/contacts.rst
