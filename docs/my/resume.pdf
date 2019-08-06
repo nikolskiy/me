@@ -49,7 +49,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20190805183046+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190805183046+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190805221644+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190805221644+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Resume) /Trapped /False
 >>
 endobj
@@ -106,7 +106,7 @@ endobj
 endobj
 19 0 obj
 <<
-/Length 6978
+/Length 6977
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -161,10 +161,10 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Languages:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 96.94641 87 cm
+1 0 0 1 93.19604 87 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python, JavaScript) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python) Tj T* ET
 Q
 Q
 q
@@ -175,10 +175,10 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technologies:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 96.94641 69 cm
+1 0 0 1 93.19604 69 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Google App Engine, Pytest, Buildbot, Docker, Kubernetes, Helm, Git, Twisted) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Google Cloud Platform, Pytest, Buildbot, Docker, Kubernetes, Helm, Git, Twisted) Tj T* ET
 Q
 Q
 q
@@ -189,10 +189,10 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Web:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 96.94641 51 cm
+1 0 0 1 93.19604 51 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Django, Flask, CSS) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Django, Flask, JavaScript) Tj T* ET
 Q
 Q
 q
@@ -203,7 +203,7 @@ BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Operating) Tj T* (Systems:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 96.94641 33 cm
+1 0 0 1 93.19604 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Linux, MacOS) Tj T* ET
@@ -217,7 +217,7 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Databases:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 96.94641 3 cm
+1 0 0 1 93.19604 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Google Datastore, Redis, PostgreSQL) Tj T* ET
@@ -232,7 +232,7 @@ n 0 84 m 469.8898 84 l S
 n 0 66 m 469.8898 66 l S
 n 0 48 m 469.8898 48 l S
 n 0 18 m 469.8898 18 l S
-n 90.94641 0 m 90.94641 102 l S
+n 87.19604 0 m 87.19604 102 l S
 n 0 102 m 469.8898 102 l S
 n 0 0 m 469.8898 0 l S
 n 0 0 m 0 102 l S
@@ -591,14 +591,14 @@ xref
 0000002296 00000 n 
 0000002432 00000 n 
 0000002498 00000 n 
-0000009528 00000 n 
-0000010677 00000 n 
-0000010727 00000 n 
-0000010761 00000 n 
+0000009527 00000 n 
+0000010676 00000 n 
+0000010726 00000 n 
+0000010760 00000 n 
 trailer
 <<
 /ID 
-[<608de4e6775a649bc8b411ac93cda7ff><608de4e6775a649bc8b411ac93cda7ff>]
+[<7e9dc5ee7de163d23f402272dae74e88><7e9dc5ee7de163d23f402272dae74e88>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R
@@ -606,5 +606,5 @@ trailer
 /Size 24
 >>
 startxref
-10795
+10794
 %%EOF

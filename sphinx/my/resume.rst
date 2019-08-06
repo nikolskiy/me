@@ -9,9 +9,9 @@ University of Alaska Anchorage (UAA)
 Skills:
 -------
 ==================   ===========================================================================
-Languages:           Python, JavaScript
-Technologies:        Google App Engine, Pytest, Buildbot, Docker, Kubernetes, Helm, Git, Twisted
-Web:                 Django, Flask, CSS
+Languages:           Python
+Technologies:        Google Cloud Platform, Pytest, Buildbot, Docker, Kubernetes, Helm, Git, Twisted
+Web:                 Django, Flask, JavaScript
 Operating Systems:   Linux, MacOS
 Databases:           Google Datastore, Redis, PostgreSQL
 ==================   ===========================================================================
