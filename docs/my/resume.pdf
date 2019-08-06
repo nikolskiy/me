@@ -18,13 +18,34 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (http://meridianapps.com/)
->> /Border [ 0 0 0 ] /Rect [ 66.02291 420.0236 175.5129 432.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://nikolskiy.github.io/me)
+>> /Border [ 0 0 0 ] /Rect [ 88.81291 684.0236 213.8629 696.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (http://www.linkedin.com/in/nikolskiy)
+>> /Border [ 0 0 0 ] /Rect [ 106.0529 672.0236 262.2029 684.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/nikolskiy)
+>> /Border [ 0 0 0 ] /Rect [ 99.37291 660.0236 218.8629 672.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://meridianapps.com/)
+>> /Border [ 0 0 0 ] /Rect [ 66.02291 339.0236 175.5129 351.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -32,9 +53,9 @@ endobj
 >> /Type /Page
 >>
 endobj
-6 0 obj
+9 0 obj
 <<
-/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 22 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -42,71 +63,76 @@ endobj
   /Type /Page
 >>
 endobj
-7 0 obj
-<<
-/Outlines 9 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
->>
-endobj
-8 0 obj
-<<
-/Author () /CreationDate (D:20190805221644+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190805221644+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Resume) /Trapped /False
->>
-endobj
-9 0 obj
-<<
-/Count 9 /First 10 0 R /Last 12 0 R /Type /Outlines
->>
-endobj
 10 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 729.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Education:)
+/Outlines 12 0 R /PageLabels 25 0 R /PageMode /UseNone /Pages 22 0 R /Type /Catalog
 >>
 endobj
 11 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 678.0236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Skills:)
+/Author () /CreationDate (D:20190805224554+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190805224554+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Resume) /Trapped /False
 >>
 endobj
 12 0 obj
 <<
-/Count 5 /Dest [ 5 0 R /XYZ 62.69291 531.0236 0 ] /First 13 0 R /Last 17 0 R /Parent 9 0 R /Prev 11 0 R 
-  /Title (Work Experience:)
+/Count 10 /First 13 0 R /Last 16 0 R /Type /Outlines
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 498.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (Aruba Networks \(HPE\))
+/Dest [ 8 0 R /XYZ 62.69291 729.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (Denis Nikolskiy)
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 396.0236 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (Speedflow Communication Ltd)
+/Dest [ 8 0 R /XYZ 62.69291 648.0236 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (Education:)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 294.0236 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Speedflow Communications Ltd)
+/Dest [ 8 0 R /XYZ 62.69291 597.0236 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Skills:)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 204.0236 0 ] /Next 17 0 R /Parent 12 0 R /Prev 15 0 R /Title (Design-PT, Inc)
+/Count 5 /Dest [ 8 0 R /XYZ 62.69291 450.0236 0 ] /First 17 0 R /Last 21 0 R /Parent 12 0 R /Prev 15 0 R 
+  /Title (Work Experience:)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 114.0236 0 ] /Parent 12 0 R /Prev 16 0 R /Title (Arctic Region Supercomputing Center)
+/Dest [ 8 0 R /XYZ 62.69291 417.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Aruba Networks \(HPE\))
 >>
 endobj
 18 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+/Dest [ 8 0 R /XYZ 62.69291 315.0236 0 ] /Next 19 0 R /Parent 16 0 R /Prev 17 0 R /Title (Speedflow Communication Ltd)
 >>
 endobj
 19 0 obj
 <<
-/Length 6977
+/Dest [ 8 0 R /XYZ 62.69291 213.0236 0 ] /Next 20 0 R /Parent 16 0 R /Prev 18 0 R /Title (Speedflow Communications Ltd)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 123.0236 0 ] /Next 21 0 R /Parent 16 0 R /Prev 19 0 R /Title (Design-PT, Inc)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 705.0236 0 ] /Parent 16 0 R /Prev 20 0 R /Title (Arctic Region Supercomputing Center)
+>>
+endobj
+22 0 obj
+<<
+/Count 2 /Kids [ 8 0 R 9 0 R ] /Type /Pages
+>>
+endobj
+23 0 obj
+<<
+/Length 6521
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -120,27 +146,57 @@ Q
 q
 1 0 0 1 62.69291 708.0236 cm
 q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Denis Nikolskiy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Web: ) Tj 0 0 .501961 rg (https://nikolskiy.github.io/me) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (LinkedIn: ) Tj 0 0 .501961 rg (http://www.linkedin.com/in/nikolskiy) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (GitHub: ) Tj 0 0 .501961 rg (https://github.com/nikolskiy) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 690.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bachelor of Science Degree in Computer Science, August 2010 University of Alaska Anchorage \(UAA\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 62.69291 576.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skills:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 564.0236 cm
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 462.0236 cm
 1 1 1 rg
 n 0 102 469.8898 -18 re f*
 .878431 .878431 .878431 rg
@@ -240,25 +296,25 @@ n 469.8898 0 m 469.8898 102 l S
 Q
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 462.0236 cm
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Work Experience:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Aruba Networks \(HPE\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 387.0236 cm
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
@@ -298,25 +354,25 @@ n 469.8898 0 m 469.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 Q
 q
-1 0 0 1 62.69291 408.0236 cm
+1 0 0 1 62.69291 327.0236 cm
 q
 BT 1 0 0 1 0 26 Tm .681318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Develop a high performance REST API based on Google App Engine for indoor positioning mobile apps) Tj T* 0 Tw 2.196342 Tw (\() Tj 0 0 .501961 rg (http://meridianapps.com/) Tj 0 0 0 rg (\). Cooperate with mobile team \(Android and iOS\) to ensure low-latency and) Tj T* 0 Tw (high-reliability endpoints.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 378.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Speedflow Communication Ltd) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 285.0236 cm
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
@@ -356,26 +412,26 @@ n 469.8898 0 m 469.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 Q
 q
-1 0 0 1 62.69291 306.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.651647 Tw (Organize team work flow and provide tech solutions for VOIP application. Established product) Tj T* 0 Tw 1.40998 Tw (development cycle with specification definition in form of tickets, documentation, coding best practices,) Tj T* 0 Tw (test coverage using pytest, continuous integration builds, and automatic deployment.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 276.0236 cm
+1 0 0 1 62.69291 195.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Speedflow Communications Ltd) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 264.0236 cm
+1 0 0 1 62.69291 183.0236 cm
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
@@ -415,26 +471,35 @@ n 469.8898 0 m 469.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 135.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.046905 Tw (Develop a high performance SMS \(SMPP\) switch based on Python Twisted framework. The application) Tj T* 0 Tw (was built from specification to production. It was integrated with one of the company's main products.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 105.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Design-PT, Inc) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 93.02362 cm
 Q
+ 
+endstream
+endobj
+24 0 obj
+<<
+/Length 2189
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 747.0236 cm
 1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
@@ -474,35 +539,26 @@ n 469.8898 0 m 469.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 747.0236 cm
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 717.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.06216 Tw (Design and implement web solutions using HTML, CSS, PHP, SQL, and other web technologies. Respond) Tj T* 0 Tw (to client requests to update websites, perform the update and follow up to ensure client satisfaction.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 96.02362 cm
+1 0 0 1 62.69291 687.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Arctic Region Supercomputing Center) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 84.02362 cm
+1 0 0 1 62.69291 675.0236 cm
 Q
- 
-endstream
-endobj
-20 0 obj
-<<
-/Length 1097
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 657.0236 cm
 1 1 1 rg
 n 0 18 469.8898 -18 re f*
 0 0 0 rg
@@ -542,10 +598,10 @@ n 469.8898 0 m 469.8898 18 l S
 Q
 Q
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 657.0236 cm
 Q
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 615.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .970697 Tw (Duties included devising and supporting C++ graphics applications for 3D lab \(virtual Mars\) and leading) Tj T* 0 Tw 1.15936 Tw (tours and presentations of the Virtual lab. As a part of ARSC team, designed and implemented Python) Tj T* 0 Tw (applications for internal use, supported scientific research \(worked on Venus elevation data\).) Tj T* ET
@@ -554,57 +610,61 @@ Q
  
 endstream
 endobj
-21 0 obj
+25 0 obj
 <<
-/Nums [ 0 22 0 R 1 23 0 R ]
+/Nums [ 0 26 0 R 1 27 0 R ]
 >>
 endobj
-22 0 obj
+26 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-23 0 obj
+27 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 24
+0 28
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
 0000000221 00000 n 
 0000000333 00000 n 
-0000000509 00000 n 
-0000000732 00000 n 
-0000000937 00000 n 
-0000001041 00000 n 
-0000001304 00000 n 
-0000001377 00000 n 
-0000001487 00000 n 
-0000001607 00000 n 
-0000001762 00000 n 
-0000001885 00000 n 
-0000002026 00000 n 
-0000002168 00000 n 
-0000002296 00000 n 
-0000002432 00000 n 
-0000002498 00000 n 
-0000009527 00000 n 
-0000010676 00000 n 
-0000010726 00000 n 
-0000010760 00000 n 
+0000000515 00000 n 
+0000000703 00000 n 
+0000000883 00000 n 
+0000001059 00000 n 
+0000001300 00000 n 
+0000001505 00000 n 
+0000001611 00000 n 
+0000001875 00000 n 
+0000001950 00000 n 
+0000002066 00000 n 
+0000002190 00000 n 
+0000002311 00000 n 
+0000002467 00000 n 
+0000002590 00000 n 
+0000002731 00000 n 
+0000002873 00000 n 
+0000003001 00000 n 
+0000003137 00000 n 
+0000003203 00000 n 
+0000009776 00000 n 
+0000012017 00000 n 
+0000012067 00000 n 
+0000012101 00000 n 
 trailer
 <<
 /ID 
-[<7e9dc5ee7de163d23f402272dae74e88><7e9dc5ee7de163d23f402272dae74e88>]
+[<78cce58bb5428c7dcae2f385258fb34c><78cce58bb5428c7dcae2f385258fb34c>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 8 0 R
-/Root 7 0 R
-/Size 24
+/Info 11 0 R
+/Root 10 0 R
+/Size 28
 >>
 startxref
-10794
+12135
 %%EOF

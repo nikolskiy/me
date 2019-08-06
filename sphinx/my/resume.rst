@@ -1,5 +1,11 @@
 Resume
-======
+=========
+
+Denis Nikolskiy
+---------------
+| Web: `<https://nikolskiy.github.io/me>`_
+| LinkedIn: `<http://www.linkedin.com/in/nikolskiy>`_
+| GitHub: `<https://github.com/nikolskiy>`_
 
 Education:
 ----------
