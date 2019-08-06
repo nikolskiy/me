@@ -32,9 +32,16 @@ def update(ctx):
 
 
 @task
+def pdf(ctx):
+    """Build pdf files (only resume section)"""
+    ctx.run('rst2pdf {}/my/resume.rst -o {}/my/resume.pdf'.format(source, docs))
+
+
+@task
 def html(ctx):
     """Rebuild html files and start test server"""
     clean(ctx)
     build(ctx, 'html')
     update(ctx)
+    pdf(ctx)
     run(ctx)

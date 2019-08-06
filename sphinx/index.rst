@@ -23,6 +23,7 @@ my `Github <https://github.com/nikolskiy>`_, or talk to my :ref:`virtual assista
    :hidden:
 
    my/resume.rst
+   my/resume-download.rst
 
 .. toctree::
    :maxdepth: 2
