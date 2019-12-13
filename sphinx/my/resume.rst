@@ -31,26 +31,26 @@ Aruba Networks (HPE)
 | **Senior Software Engineer** | Portland, OR  | 10/14 – 07/18 |
 +------------------------------+---------------+---------------+
 
-Develop a high performance REST API based on Google App Engine for indoor positioning mobile apps (http://meridianapps.com/).
+Develop a high-performance REST API based on Google App Engine for indoor positioning mobile apps (http://meridianapps.com/).
 Cooperate with mobile team (Android and iOS) to ensure low-latency and high-reliability endpoints.
 
-Speedflow Communication Ltd
-+++++++++++++++++++++++++++
+Speedflow Communications Ltd
+++++++++++++++++++++++++++++
 +----------------+---------+---------------+
 |**Team Leader** | Ukraine | 04/13 – 07/14 |
 +----------------+---------+---------------+
 
-Organize team work flow and provide tech solutions for VOIP application. Established product development cycle with
-specification definition in form of tickets, documentation, coding best practices, test coverage using pytest,
+Organize team workflow and provide tech solutions for VOIP application. Establish a product development cycle with
+specification definition in the form of tickets, documentation, coding best practices, test coverage using pytest,
 continuous integration builds, and automatic deployment.
 
 Speedflow Communications Ltd
 ++++++++++++++++++++++++++++
 +-------------------------+---------+---------------+
-| **Software Developmer** | Ukraine | 04/12 – 07/13 |
+| **Software Developer** | Ukraine | 04/12 – 07/13  |
 +-------------------------+---------+---------------+
 
-Develop a high performance SMS (SMPP) switch based on Python Twisted framework. The application was built from
+Develop a high-performance SMS (SMPP) switch based on Python Twisted framework. The application was built from
 specification to production. It was integrated with one of the company's main products.
 
 Design-PT, Inc
@@ -60,7 +60,7 @@ Design-PT, Inc
 +---------------------------+----------------+---------------+
 
 Design and implement web solutions using HTML, CSS, PHP, SQL, and other web technologies. Respond to client requests
-to update websites, perform the update and follow up to ensure client satisfaction.
+to update websites, perform the update, and follow up to ensure client satisfaction.
 
 Arctic Region Supercomputing Center
 +++++++++++++++++++++++++++++++++++
@@ -68,6 +68,6 @@ Arctic Region Supercomputing Center
 | **Research Assistant**  | Fairbanks, AK  | 09/06 – 05/09 |
 +-------------------------+----------------+---------------+
 
-Duties included devising and supporting C++ graphics applications for 3D lab (virtual Mars) and leading tours and
+Duties included devising and supporting C++ graphics applications for a 3D lab (virtual Mars) and leading tours and
 presentations of the Virtual lab. As a part of ARSC team, designed and implemented Python applications for internal
-use, supported scientific research (worked on Venus elevation data).
+use and supported scientific research (worked on Venus elevation data).
