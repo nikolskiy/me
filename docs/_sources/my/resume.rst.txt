@@ -14,16 +14,24 @@ University of Alaska Anchorage (UAA)
 
 Skills:
 -------
-==================   ===========================================================================
+==================   ===============================================================================
 Languages:           Python
 Technologies:        Google Cloud Platform, Pytest, Buildbot, Docker, Kubernetes, Helm, Git, Twisted
 Web:                 Django, Flask, JavaScript
 Operating Systems:   Linux, MacOS
 Databases:           Google Datastore, Redis, PostgreSQL
-==================   ===========================================================================
+==================   ===============================================================================
 
 Work Experience:
 ----------------
+
+Fijowave
+++++++++
++------------------------------+-----------------+---------------+
+| **Senior Software Engineer** | Ireland, Dublin | 02/20 – now   |
++------------------------------+-----------------+---------------+
+
+Provide solutions for Fijowave IoT devices and support existing IoT management platform.
 
 Aruba Networks (HPE)
 ++++++++++++++++++++
@@ -44,8 +52,6 @@ Organize team workflow and provide tech solutions for VOIP application. Establis
 specification definition in the form of tickets, documentation, coding best practices, test coverage using pytest,
 continuous integration builds, and automatic deployment.
 
-Speedflow Communications Ltd
-++++++++++++++++++++++++++++
 +-------------------------+---------+---------------+
 | **Software Developer** | Ukraine | 04/12 – 07/13  |
 +-------------------------+---------+---------------+

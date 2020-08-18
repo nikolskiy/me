@@ -1,8 +1,7 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
   <meta charset="utf-8">
   
@@ -12,27 +11,30 @@
   
 
   
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+
+  
   
   
   
 
   
-  <script type="text/javascript" src="../_static/js/modernizr.min.js"></script>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
     
       <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
-        <script type="text/javascript" src="../_static/jquery.js"></script>
-        <script type="text/javascript" src="../_static/underscore.js"></script>
-        <script type="text/javascript" src="../_static/doctools.js"></script>
-        <script type="text/javascript" src="../_static/language_data.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/language_data.js"></script>
+        <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
     
     <script type="text/javascript" src="../_static/js/theme.js"></script>
 
     
-
-  
-  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="PDF" href="resume-download.html" />
@@ -50,7 +52,7 @@
           
 
           
-            <a href="../index.html" class="icon icon-home"> Denis Nikolskiy
+            <a href="../index.html" class="icon icon-home" alt="Documentation Home"> Denis Nikolskiy
           
 
           
@@ -73,6 +75,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -92,9 +95,9 @@
 <li class="toctree-l2"><a class="reference internal" href="#education">Education:</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#skills">Skills:</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#work-experience">Work Experience:</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#fijowave">Fijowave</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#aruba-networks-hpe">Aruba Networks (HPE)</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#speedflow-communications-ltd">Speedflow Communications Ltd</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#id1">Speedflow Communications Ltd</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#design-pt-inc">Design-PT, Inc</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#arctic-region-supercomputing-center">Arctic Region Supercomputing Center</a></li>
 </ul>
@@ -110,6 +113,7 @@
             
           
         </div>
+        
       </div>
     </nav>
 
@@ -148,7 +152,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="../index.html">Docs</a> &raquo;</li>
+      <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
         
       <li>Resume</li>
     
@@ -183,13 +187,13 @@
 /* CSS overrides for sphinx_rtd_theme */
 
 /* 24px margin */
-.nbinput.nblast,
-.nboutput.nblast {
+.nbinput.nblast.container,
+.nboutput.nblast.container {
     margin-bottom: 19px;  /* padding has already 5px */
 }
 
 /* ... except between code cells! */
-.nblast + .nbinput {
+.nblast.container + .nbinput.container {
     margin-top: -19px;
 }
 
@@ -245,6 +249,23 @@ University of Alaska Anchorage (UAA)</p>
 </div>
 <div class="section" id="work-experience">
 <h2>Work Experience:<a class="headerlink" href="#work-experience" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="fijowave">
+<h3>Fijowave<a class="headerlink" href="#fijowave" title="Permalink to this headline">¶</a></h3>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 48%" />
+<col style="width: 27%" />
+<col style="width: 24%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td><p><strong>Senior Software Engineer</strong></p></td>
+<td><p>Ireland, Dublin</p></td>
+<td><p>02/20 – now</p></td>
+</tr>
+</tbody>
+</table>
+<p>Provide solutions for Fijowave IoT devices and support existing IoT management platform.</p>
+</div>
 <div class="section" id="aruba-networks-hpe">
 <h3>Aruba Networks (HPE)<a class="headerlink" href="#aruba-networks-hpe" title="Permalink to this headline">¶</a></h3>
 <table class="docutils align-default">
@@ -281,9 +302,6 @@ Cooperate with mobile team (Android and iOS) to ensure low-latency and high-reli
 <p>Organize team workflow and provide tech solutions for VOIP application. Establish a product development cycle with
 specification definition in the form of tickets, documentation, coding best practices, test coverage using pytest,
 continuous integration builds, and automatic deployment.</p>
-</div>
-<div class="section" id="id1">
-<h3>Speedflow Communications Ltd<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
 <table class="docutils align-default">
 <colgroup>
 <col style="width: 51%" />
@@ -349,11 +367,19 @@ use and supported scientific research (worked on Venus elevation data).</p>
 
   <div role="contentinfo">
     <p>
+        
         &copy; Copyright 2019, Denis Nikolskiy
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
 
@@ -364,7 +390,6 @@ use and supported scientific research (worked on Venus elevation data).</p>
 
   </div>
   
-
 
   <script type="text/javascript">
       jQuery(function () {

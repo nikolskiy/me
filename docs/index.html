@@ -1,8 +1,7 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
   <meta charset="utf-8">
   
@@ -12,27 +11,30 @@
   
 
   
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+
+  
   
   
   
 
   
-  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
   
     
       <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-        <script type="text/javascript" src="_static/jquery.js"></script>
-        <script type="text/javascript" src="_static/underscore.js"></script>
-        <script type="text/javascript" src="_static/doctools.js"></script>
-        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
     
     <script type="text/javascript" src="_static/js/theme.js"></script>
 
     
-
-  
-  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Articles" href="my/articles.html" /> 
@@ -49,7 +51,7 @@
           
 
           
-            <a href="#" class="icon icon-home"> Denis Nikolskiy
+            <a href="#" class="icon icon-home" alt="Documentation Home"> Denis Nikolskiy
           
 
           
@@ -72,6 +74,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -96,6 +99,7 @@
             
           
         </div>
+        
       </div>
     </nav>
 
@@ -134,7 +138,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="#">Docs</a> &raquo;</li>
+      <li><a href="#" class="icon icon-home"></a> &raquo;</li>
         
       <li>Welcome!</li>
     
@@ -167,13 +171,13 @@
 /* CSS overrides for sphinx_rtd_theme */
 
 /* 24px margin */
-.nbinput.nblast,
-.nboutput.nblast {
+.nbinput.nblast.container,
+.nboutput.nblast.container {
     margin-bottom: 19px;  /* padding has already 5px */
 }
 
 /* ... except between code cells! */
-.nblast + .nbinput {
+.nblast.container + .nbinput.container {
     margin-top: -19px;
 }
 
@@ -191,8 +195,8 @@
 <p>My name is Denis. I’m a software engineer. My favorite language is Python. I’ve been developing software
 since 2006 and enjoy helping people who are just getting started. During my career I’ve worked with lots
 of other languages, frameworks, and different tech. If you want to learn more about me, feel free to check out
-my <a class="reference external" href="my/resume.html">resume</a>, <a class="reference external" href="http://www.linkedin.com/in/nikolskiy">LinkedIn</a> , explore
-my <a class="reference external" href="https://github.com/nikolskiy">Github</a>, or talk to my <a class="reference internal" href="my/contacts.html#assistant"><span class="std std-ref">virtual assistant</span></a>.</p>
+my <a class="reference external" href="my/resume.html">resume</a>, <a class="reference external" href="http://www.linkedin.com/in/nikolskiy">LinkedIn</a> , or explore
+my <a class="reference external" href="https://github.com/nikolskiy">Github</a>.</p>
 <div class="toctree-wrapper compound">
 </div>
 <div class="toctree-wrapper compound">
@@ -212,11 +216,19 @@ my <a class="reference external" href="https://github.com/nikolskiy">Github</a>,
 
   <div role="contentinfo">
     <p>
+        
         &copy; Copyright 2019, Denis Nikolskiy
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
 
@@ -227,7 +239,6 @@ my <a class="reference external" href="https://github.com/nikolskiy">Github</a>,
 
   </div>
   
-
 
   <script type="text/javascript">
       jQuery(function () {
