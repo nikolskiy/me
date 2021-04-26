@@ -9,7 +9,7 @@ Denis Nikolskiy
 
 Education:
 ----------
-Bachelor of Science Degree in Computer Science, August 2010
+Bachelor of Science Degree in Computer Science, August 2010,
 University of Alaska Anchorage (UAA)
 
 Skills:
@@ -24,14 +24,21 @@ Databases:           Google Datastore, Redis, PostgreSQL
 
 Work Experience:
 ----------------
+Tochka Bank
++++++++++++
++------------------------------+-----------------------+---------------+
+| **Senior Software Engineer** | Russia, Yekaterinburg | 09/21 – now   |
++------------------------------+-----------------------+---------------+
+
+Develop Python based backend for P2P lending solution.
 
 Fijowave
 ++++++++
 +------------------------------+-----------------+---------------+
-| **Senior Software Engineer** | Ireland, Dublin | 02/20 – now   |
+| **Senior Software Engineer** | Ireland, Dublin | 02/20 – 09/21 |
 +------------------------------+-----------------+---------------+
 
-Provide solutions for Fijowave IoT devices and support existing IoT management platform.
+Provide solutions for Fijowave IoT devices and support existing IoT management platform (https://www.fijowave.com/).
 
 Aruba Networks (HPE)
 ++++++++++++++++++++
@@ -52,9 +59,9 @@ Organize team workflow and provide tech solutions for VOIP application. Establis
 specification definition in the form of tickets, documentation, coding best practices, test coverage using pytest,
 continuous integration builds, and automatic deployment.
 
-+-------------------------+---------+---------------+
++------------------------+---------+----------------+
 | **Software Developer** | Ukraine | 04/12 – 07/13  |
-+-------------------------+---------+---------------+
++------------------------+---------+----------------+
 
 Develop a high-performance SMS (SMPP) switch based on Python Twisted framework. The application was built from
 specification to production. It was integrated with one of the company's main products.
