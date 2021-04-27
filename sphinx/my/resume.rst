@@ -27,7 +27,7 @@ Work Experience:
 Tochka Bank
 +++++++++++
 +------------------------------+-----------------------+---------------+
-| **Senior Software Engineer** | Russia, Yekaterinburg | 09/21 – now   |
+| **Senior Software Engineer** | Russia, Yekaterinburg | 09/20 – now   |
 +------------------------------+-----------------------+---------------+
 
 Develop Python based backend for P2P lending solution.
@@ -35,7 +35,7 @@ Develop Python based backend for P2P lending solution.
 Fijowave
 ++++++++
 +------------------------------+-----------------+---------------+
-| **Senior Software Engineer** | Ireland, Dublin | 02/20 – 09/21 |
+| **Senior Software Engineer** | Ireland, Dublin | 02/20 – 09/20 |
 +------------------------------+-----------------+---------------+
 
 Provide solutions for Fijowave IoT devices and support existing IoT management platform (https://www.fijowave.com/).
