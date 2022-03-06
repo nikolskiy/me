@@ -17,7 +17,7 @@ Skills:
 ==================   ===============================================================================
 Languages:           Python
 Technologies:        Google Cloud Platform, Pytest, Buildbot, Docker, Kubernetes, Helm, Git, Twisted
-Web:                 Django, Flask, JavaScript
+Web:                 Django, Flask, FastAPI, JavaScript
 Operating Systems:   Linux, MacOS
 Databases:           Google Datastore, Redis, PostgreSQL
 ==================   ===============================================================================
@@ -27,7 +27,7 @@ Work Experience:
 Tochka Bank
 +++++++++++
 +------------------------------+-----------------------+---------------+
-| **Senior Software Engineer** | Russia, Yekaterinburg | 09/20 – now   |
+| **Senior Software Engineer** | Russia, Yekaterinburg | 09/20 – 07/21 |
 +------------------------------+-----------------------+---------------+
 
 Develop Python based backend for P2P lending solution.
